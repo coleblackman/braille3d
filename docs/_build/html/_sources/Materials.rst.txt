@@ -1,0 +1,8 @@
+Materials List
+==============
+
+.. this should have descriptions of what each part is used for, and a column detailing where to acquire it (print/buy/etc) and if lathing them is a possibility
+
+A note on acquiring materials:
+
+Some of the required parts for this project would most easily be 3d printed

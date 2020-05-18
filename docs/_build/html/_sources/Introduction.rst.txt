@@ -1,0 +1,15 @@
+Introduction
+============
+TODO
+
+what this project is
+
+who it is for
+
+where to get help
+
+a note on BrailleRap-SP vs Braille3d
+
+how this text is organized
+
+get this text as a pdf
