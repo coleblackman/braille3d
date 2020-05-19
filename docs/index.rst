@@ -9,6 +9,9 @@ Welcome to Braille3d's documentation!
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
+   
+   Introduction
+   Materials
 
 
 This is a project to redesign and complete the original French BrailleRap-SP documentation. All credit for the design of the printer goes to: Philippe Pacotte and Stéphane Godin.

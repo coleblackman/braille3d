@@ -9,9 +9,14 @@ Welcome to Braille3d's documentation!
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
+   
+   Introduction
+   Materials
 
 
-This is a project to redesign and complete the original French BrailleRap-SP documentation. All credit for the design of the printer goes to: Philippe Pacotte and Stéphane Godin. 
+This is a project to redesign and complete the original French BrailleRap-SP documentation. All credit for the design of the printer goes to: Philippe Pacotte and Stéphane Godin.
+
+Unfortunately, progress on the initial project has stalled, so this is an effort to pick up where the original team left off.
 
 The original documentation was released under the CERN Open Hardware License, as is this repository. Thus, the all documentation is free to study, modify, and share. 
 
@@ -24,9 +29,9 @@ It is based on, and shares much of its design and layout with, BrailleRap-SP. At
 
 Further goals of the project include: 
 - Complete English documentation
-- Modifying of designs to accomodate more easily-acquired parts
+- Modifying of designs to accommodate more easily-acquired parts
 - Beginner-oriented and student-accessible documentation
-
+- Simplification of design choices
 
 Indices and tables
 ==================

@@ -14,6 +14,8 @@ The frame is plywood, commonly referred to as laser plywood (any plywood with ro
 
 The sheet(s) should be large enough to cut the following plans from: [TODO: ADD LINK]
 
+
+
 Sourcing the material: This should be very easy to acquire. Look for 2 sheets of 600mm x 400mm, such as here:
 https://www.kitronik.co.uk/3202-6mm-laser-plywood-600mm-x-400mm-sheet.html
 
@@ -23,6 +25,15 @@ ___________
 Print settings: ABS, 50% infill, 3 outside perimeters.
 
 [TODO: add chart with links to each model]
++-----------------------------------------+-----------------------------------------+----------+-------------------------------------------------------------------------------------------+
+| Printed Part                            | Image                                   | Quantity | Usage                                                                                     |
++=========================================+=========================================+==========+===========================================================================================+
+| KP08 Support                            | .. image:: KP08_support.png             | 2        | This part is used to support the KP08 bearing. [TODO: add link to relevant build section] |
++-----------------------------------------+-----------------------------------------+----------+-------------------------------------------------------------------------------------------+
+| jfkdlsajflkdjsalkfjdsalkjflkdsajflkdjsa | jfkdlsajflkdsajflkjdsalkfjdlksajflkdsaj |          |                                                                                           |
++-----------------------------------------+-----------------------------------------+----------+-------------------------------------------------------------------------------------------+
+| Scroll wheel                            |                                         |          |                                                                                           |
++-----------------------------------------+-----------------------------------------+----------+-------------------------------------------------------------------------------------------+
 
 Hardware components
 ___________________
@@ -32,7 +43,7 @@ ___________________
 Electronics
 ___________
 
+
+
 Board
 _____
-
-
